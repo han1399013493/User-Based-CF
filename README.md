@@ -1,2 +1,2 @@
-# Based-User-CF
+# User-Based-CF
 Pearson、Cosine、Euclidean
